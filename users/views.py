@@ -7,22 +7,10 @@ from rest_framework.response import Response
 from rest_framework import status
 from django.db.models import Q
 from rest_framework.pagination import PageNumberPagination
-
-# from django.contrib.auth.hashers import check_password
 from django.contrib.auth.hashers import make_password, check_password
-from django.db.models import F, Func, Value
-
 from datetime import datetime, timedelta
-import random, string
 from django.utils import timezone
 
-
-# def validatedate(date_text):
-#     try:
-#         datetime.strptime(date_text, "%Y-%m-%d")
-#         return True
-#     except:
-#         return False
 
 
 def generate_token(id, name, email):
