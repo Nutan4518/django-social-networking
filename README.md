@@ -12,9 +12,14 @@ Follow these steps to build and run the Django application using Docker.
 ## Steps
 
 1.**Download or clone the repository**
+   git@github.com:Nutan4518/django-social-networking.git
+   https://github.com/Nutan4518/django-social-networking.git
+   
 2.**navigate to the project directory**
+
 3.**open terminal in the same directory**
-   Open a terminal and navigate to the project directory. Run the following command to build the Docker image:
+   Open a terminal and navigate to the project directory. Run the following command to build the Docker image
+   
 4. **Build the Docker Image**
       docker build -t app .
       
