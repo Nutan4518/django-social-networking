@@ -11,19 +11,6 @@ Follow these steps to build and run the Django application using Docker.
 
 ## Steps
 
-# django-social-networking
-
-# Running the Django Application with Docker
-
-Follow these steps to build and run the Django application using Docker.
-
-## Prerequisites
-
-- Docker installed on your machine
-- Postman (for testing the APIs)
-
-## Steps
-
 1.**Download or clone the repository**
       gh repo clone Nutan4518/django-social-networking
 2.**navigate to the project directory**
