@@ -28,7 +28,7 @@ Follow these steps to build and run the Django application using Docker.
       Import the shared Postman collection.
       Test the APIs as defined in the collection.
       
-      ACCUKNOX_assignment.postman_collection.json
+      [ACCUKNOX_assignment.postman_collection.json](https://interstellar-spaceship-1619.postman.co/workspace/New-Team-Workspace~5a2a28e7-403e-4c71-83fa-213ea5e59697/collection/28968127-42c6b510-3360-4fd7-bc60-2fe6fd559d34?action=share&creator=28968127&active-environment=28968127-8b6d89b5-8715-4a3f-bf5c-aa83e42950d9)
 
  
    
